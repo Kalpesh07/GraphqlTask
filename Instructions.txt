@@ -1,0 +1,9 @@
+Backend:
+    Run Commands:
+    a) npm install
+    b) npm start
+
+Frontend:
+    Rund Commands:
+    a) npm install
+    b) npm start
